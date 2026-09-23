@@ -1,11 +1,11 @@
-/*
-First time? Check out the tutorial game:
-https://sprig.hackclub.com/gallery/getting_started
 
-@title: goated game
-@author: 
-@tags: []
-@addedOn: 2025-00-00
+
+/*
+@title: The Cube
+@author: SorokinI-hash
+@description: A cube that speeds up when it collects Apples
+@tags: ['cube', 'arcade']
+@addedOn: 2026-09-17
 */
 const player = "p"
 const apple = "a"
