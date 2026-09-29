@@ -1,3 +1,4 @@
+
 /*
 @title: The Cube
 @author: SorokinI-hash
